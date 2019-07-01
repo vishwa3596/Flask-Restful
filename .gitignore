@@ -1,0 +1,7 @@
+code/
+ __pycache__/
+bin/
+learning/
+lib/
+lib64
+*.pyc
